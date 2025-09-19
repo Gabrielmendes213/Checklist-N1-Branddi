@@ -1,6 +1,7 @@
 {
   "name": "@rollup/rollup-win32-x64-msvc",
   "version": "4.51.0",
+  "homepage": "https://gabrielmendes213.github.io/Checklist-N1-Branddi",
   "os": [
     "win32"
   ],

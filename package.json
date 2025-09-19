@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   {
       "name": "Checklist Website Design",
@@ -59,3 +60,25 @@
       }
   }
   
+=======
+{
+  "name": "@rollup/rollup-win32-x64-msvc",
+  "version": "4.51.0",
+  "homepage": "https://gabrielmendes213.github.io/Checklist-N1-Branddi",
+  "os": [
+    "win32"
+  ],
+  "cpu": [
+    "x64"
+  ],
+  "files": [
+    "rollup.win32-x64-msvc.node"
+  ],
+  "description": "Native bindings for Rollup",
+  "author": "Lukas Taegert-Atkinson",
+  "homepage": "https://rollupjs.org/",
+  "license": "MIT",
+  "repository": "rollup/rollup",
+  "main": "./rollup.win32-x64-msvc.node"
+}
+>>>>>>> 625e3dcdc2fd789ad2c1923978c55e25aed3d38c
